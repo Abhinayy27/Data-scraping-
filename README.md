@@ -1,6 +1,6 @@
 # Data-scraping-
 
-1. This programme generates a list of top 500 videos (based on the global view count) for a specific genre, eg.sports
+1. This AI Agent generates a list of top 500 videos (based on the global view count) for a specific genre, eg.sports
    The genre input is to be done dynamic.
 
 2. For all those videos the following data points are collected in a CSV File.
